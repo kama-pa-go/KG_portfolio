@@ -22,4 +22,4 @@ Every time the program gets an "enter" it prints current Cube's appearance.</spa
 The program completes the SET Game while recording the moves that are made.</span>
 
 
-This repository is in building. Soon there will be also a Java section.
+This repository is in building. Soon there will be also a Java and Shell section.
