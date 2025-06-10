@@ -31,4 +31,4 @@ If You want to see this program in action, the easiest way would be to:
 
 **author's rights:**
 
-This program was built as an academic project. My professors write some of the tests inside the testy directory, and I can't take credit for that. Similarly, the testuj.sh script is an adaptation of Tomasz Waleń's program, which was shared with us during classes. 
+This program was built as an academic project. My professors write some of the tests inside the testy directory, so I don't take credit for all of them. Similarly, the testuj.sh script is an adaptation of Tomasz Waleń's program, which was shared with us during classes. 
