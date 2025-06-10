@@ -2,16 +2,9 @@
 
 # Skrypt testujący
 #
-# Sposób użycia
+# Sposób użycia:
 #
-# ./testuj.sh nazwa_programu.c katalog_z_testami
-#
-# np.
-#
-# ./testuj.sh choinka.c testy_z3_choinka
-#
-# jeśli testy znajdują się katalogu "testy/" nie ma potrzeby podawania katalogu
-#
+# ./testuj.sh RUBIK.c testy
 
 function error() {
     echo "$1"
