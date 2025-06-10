@@ -10,11 +10,11 @@ The program rotates a Rubik's cube.
 4. Executes commands to rotate the cube.
 5. When program encounters "print cube" command: it prints it.
 <br>
-author: Kamila Paulina Godlewska <kamapago@gmail.com>
+**author: **Kamila Paulina Godlewska <kamapago@gmail.com>
 
-version: 1.0
-
-date: 05.12.2024
+**version:** 1.0
+**date:** 05.12.2024
 <br><br>
-How to test this program: 
+**How to test this program: **
+
 If You want to see an example of program
