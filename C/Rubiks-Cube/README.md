@@ -68,15 +68,9 @@ A rotation command has the structure: `[layers][face][angle]`
 
 ---
 
-**Author:** Kamila Paulina Godlewska [kamapago@gmail.com](mailto:kamapago@gmail.com)
-
-**Version:** 1.0
-
-**Date:** 05.12.2024
-
 <br>
 
-### How to Test This Program:
+## How to Test This Program:
 
 The easiest way to see this program in action is to:
 
@@ -92,6 +86,14 @@ The easiest way to see this program in action is to:
 
 ---
 
+<br>
+
+## About the author
+**Author:** Kamila Paulina Godlewska [kamapago@gmail.com](mailto:kamapago@gmail.com)
+
+**Version:** 1.0
+
+**Date:** 05.12.2024
 ### Author's Rights:
 
 This program was built as an academic project. Some of the tests inside the `testy` directory were written by my professors, so I don't take credit for all of them. Similarly, the `testuj.sh` script is an adaptation of Tomasz Waleń's program, which was shared with us during classes.
